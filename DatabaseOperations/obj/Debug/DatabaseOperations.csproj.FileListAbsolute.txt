@@ -1,0 +1,20 @@
+C:\Users\Erdal DELEN\Desktop\MovieApp\FilmSitesi\DatabaseOperations\bin\Debug\DatabaseOperations.dll.config
+C:\Users\Erdal DELEN\Desktop\MovieApp\FilmSitesi\DatabaseOperations\bin\Debug\DatabaseOperations.dll
+C:\Users\Erdal DELEN\Desktop\MovieApp\FilmSitesi\DatabaseOperations\bin\Debug\DatabaseOperations.pdb
+C:\Users\Erdal DELEN\Desktop\MovieApp\FilmSitesi\DatabaseOperations\bin\Debug\EntityFramework.dll
+C:\Users\Erdal DELEN\Desktop\MovieApp\FilmSitesi\DatabaseOperations\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Erdal DELEN\Desktop\MovieApp\FilmSitesi\DatabaseOperations\bin\Debug\EntityFramework.xml
+C:\Users\Erdal DELEN\Desktop\MovieApp\FilmSitesi\DatabaseOperations\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Erdal DELEN\Desktop\MovieApp\FilmSitesi\DatabaseOperations\obj\Debug\DatabaseOperations.csprojResolveAssemblyReference.cache
+C:\Users\Erdal DELEN\Desktop\MovieApp\FilmSitesi\DatabaseOperations\obj\Debug\DatabaseOperations.dll
+C:\Users\Erdal DELEN\Desktop\MovieApp\FilmSitesi\DatabaseOperations\obj\Debug\DatabaseOperations.pdb
+C:\Users\rabia\Desktop\filmProjesi\FilmProje\DatabaseOperations\bin\Debug\DatabaseOperations.dll.config
+C:\Users\rabia\Desktop\filmProjesi\FilmProje\DatabaseOperations\bin\Debug\DatabaseOperations.dll
+C:\Users\rabia\Desktop\filmProjesi\FilmProje\DatabaseOperations\bin\Debug\DatabaseOperations.pdb
+C:\Users\rabia\Desktop\filmProjesi\FilmProje\DatabaseOperations\bin\Debug\EntityFramework.dll
+C:\Users\rabia\Desktop\filmProjesi\FilmProje\DatabaseOperations\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\rabia\Desktop\filmProjesi\FilmProje\DatabaseOperations\bin\Debug\EntityFramework.xml
+C:\Users\rabia\Desktop\filmProjesi\FilmProje\DatabaseOperations\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\rabia\Desktop\filmProjesi\FilmProje\DatabaseOperations\obj\Debug\DatabaseOperations.csprojResolveAssemblyReference.cache
+C:\Users\rabia\Desktop\filmProjesi\FilmProje\DatabaseOperations\obj\Debug\DatabaseOperations.dll
+C:\Users\rabia\Desktop\filmProjesi\FilmProje\DatabaseOperations\obj\Debug\DatabaseOperations.pdb

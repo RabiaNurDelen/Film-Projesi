@@ -1,0 +1,6 @@
+C:\Users\Erdal DELEN\Desktop\MovieApp\FilmSitesi\FilmSitesi\bin\FilmSitesi.dll.config
+C:\Users\Erdal DELEN\Desktop\MovieApp\FilmSitesi\FilmSitesi\bin\FilmSitesi.dll
+C:\Users\Erdal DELEN\Desktop\MovieApp\FilmSitesi\FilmSitesi\bin\FilmSitesi.pdb
+C:\Users\Erdal DELEN\Desktop\MovieApp\FilmSitesi\FilmSitesi\obj\Debug\FilmSitesi.csprojResolveAssemblyReference.cache
+C:\Users\Erdal DELEN\Desktop\MovieApp\FilmSitesi\FilmSitesi\obj\Debug\FilmSitesi.dll
+C:\Users\Erdal DELEN\Desktop\MovieApp\FilmSitesi\FilmSitesi\obj\Debug\FilmSitesi.pdb

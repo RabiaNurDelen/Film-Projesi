@@ -1,0 +1,110 @@
+C:\Users\Erdal DELEN\Desktop\MovieApp\FilmSitesi\API\bin\roslyn\csc.exe
+C:\Users\Erdal DELEN\Desktop\MovieApp\FilmSitesi\API\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Erdal DELEN\Desktop\MovieApp\FilmSitesi\API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Erdal DELEN\Desktop\MovieApp\FilmSitesi\API\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Erdal DELEN\Desktop\MovieApp\FilmSitesi\API\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Erdal DELEN\Desktop\MovieApp\FilmSitesi\API\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Erdal DELEN\Desktop\MovieApp\FilmSitesi\API\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Erdal DELEN\Desktop\MovieApp\FilmSitesi\API\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Erdal DELEN\Desktop\MovieApp\FilmSitesi\API\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Erdal DELEN\Desktop\MovieApp\FilmSitesi\API\bin\roslyn\vbc.exe
+C:\Users\Erdal DELEN\Desktop\MovieApp\FilmSitesi\API\bin\roslyn\VBCSCompiler.exe
+C:\Users\Erdal DELEN\Desktop\MovieApp\FilmSitesi\API\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Erdal DELEN\Desktop\MovieApp\FilmSitesi\API\bin\API.dll.config
+C:\Users\Erdal DELEN\Desktop\MovieApp\FilmSitesi\API\bin\API.dll
+C:\Users\Erdal DELEN\Desktop\MovieApp\FilmSitesi\API\bin\API.pdb
+C:\Users\Erdal DELEN\Desktop\MovieApp\FilmSitesi\API\bin\Antlr3.Runtime.dll
+C:\Users\Erdal DELEN\Desktop\MovieApp\FilmSitesi\API\bin\DatabaseOperations.dll
+C:\Users\Erdal DELEN\Desktop\MovieApp\FilmSitesi\API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Erdal DELEN\Desktop\MovieApp\FilmSitesi\API\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Erdal DELEN\Desktop\MovieApp\FilmSitesi\API\bin\Newtonsoft.Json.dll
+C:\Users\Erdal DELEN\Desktop\MovieApp\FilmSitesi\API\bin\System.Net.Http.Formatting.dll
+C:\Users\Erdal DELEN\Desktop\MovieApp\FilmSitesi\API\bin\System.Web.Cors.dll
+C:\Users\Erdal DELEN\Desktop\MovieApp\FilmSitesi\API\bin\System.Web.Helpers.dll
+C:\Users\Erdal DELEN\Desktop\MovieApp\FilmSitesi\API\bin\System.Web.Http.Cors.dll
+C:\Users\Erdal DELEN\Desktop\MovieApp\FilmSitesi\API\bin\System.Web.Http.dll
+C:\Users\Erdal DELEN\Desktop\MovieApp\FilmSitesi\API\bin\System.Web.Http.WebHost.dll
+C:\Users\Erdal DELEN\Desktop\MovieApp\FilmSitesi\API\bin\System.Web.Mvc.dll
+C:\Users\Erdal DELEN\Desktop\MovieApp\FilmSitesi\API\bin\System.Web.Optimization.dll
+C:\Users\Erdal DELEN\Desktop\MovieApp\FilmSitesi\API\bin\System.Web.Razor.dll
+C:\Users\Erdal DELEN\Desktop\MovieApp\FilmSitesi\API\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Erdal DELEN\Desktop\MovieApp\FilmSitesi\API\bin\System.Web.WebPages.dll
+C:\Users\Erdal DELEN\Desktop\MovieApp\FilmSitesi\API\bin\System.Web.WebPages.Razor.dll
+C:\Users\Erdal DELEN\Desktop\MovieApp\FilmSitesi\API\bin\WebGrease.dll
+C:\Users\Erdal DELEN\Desktop\MovieApp\FilmSitesi\API\bin\EntityFramework.dll
+C:\Users\Erdal DELEN\Desktop\MovieApp\FilmSitesi\API\bin\DatabaseOperations.pdb
+C:\Users\Erdal DELEN\Desktop\MovieApp\FilmSitesi\API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Erdal DELEN\Desktop\MovieApp\FilmSitesi\API\bin\System.Net.Http.Formatting.xml
+C:\Users\Erdal DELEN\Desktop\MovieApp\FilmSitesi\API\bin\System.Web.Http.xml
+C:\Users\Erdal DELEN\Desktop\MovieApp\FilmSitesi\API\bin\System.Web.Http.Cors.xml
+C:\Users\Erdal DELEN\Desktop\MovieApp\FilmSitesi\API\bin\Newtonsoft.Json.xml
+C:\Users\Erdal DELEN\Desktop\MovieApp\FilmSitesi\API\bin\System.Web.Helpers.xml
+C:\Users\Erdal DELEN\Desktop\MovieApp\FilmSitesi\API\bin\System.Web.Http.WebHost.xml
+C:\Users\Erdal DELEN\Desktop\MovieApp\FilmSitesi\API\bin\System.Web.Mvc.xml
+C:\Users\Erdal DELEN\Desktop\MovieApp\FilmSitesi\API\bin\System.Web.Optimization.xml
+C:\Users\Erdal DELEN\Desktop\MovieApp\FilmSitesi\API\bin\System.Web.Razor.xml
+C:\Users\Erdal DELEN\Desktop\MovieApp\FilmSitesi\API\bin\System.Web.WebPages.xml
+C:\Users\Erdal DELEN\Desktop\MovieApp\FilmSitesi\API\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Erdal DELEN\Desktop\MovieApp\FilmSitesi\API\bin\System.Web.WebPages.Razor.xml
+C:\Users\Erdal DELEN\Desktop\MovieApp\FilmSitesi\API\bin\Antlr3.Runtime.pdb
+C:\Users\Erdal DELEN\Desktop\MovieApp\FilmSitesi\API\bin\EntityFramework.xml
+C:\Users\Erdal DELEN\Desktop\MovieApp\FilmSitesi\API\obj\Debug\API.csprojResolveAssemblyReference.cache
+C:\Users\Erdal DELEN\Desktop\MovieApp\FilmSitesi\API\obj\Debug\API.dll
+C:\Users\Erdal DELEN\Desktop\MovieApp\FilmSitesi\API\obj\Debug\API.pdb
+C:\Users\Erdal DELEN\Desktop\MovieApp\FilmSitesi\API\bin\EntityFramework.SqlServer.dll
+C:\Users\Erdal DELEN\Desktop\MovieApp\FilmSitesi\API\bin\EntityFramework.SqlServer.xml
+C:\Users\rabia\Desktop\filmProjesi\FilmProje\API\bin\roslyn\csc.exe
+C:\Users\rabia\Desktop\filmProjesi\FilmProje\API\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\rabia\Desktop\filmProjesi\FilmProje\API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\rabia\Desktop\filmProjesi\FilmProje\API\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\rabia\Desktop\filmProjesi\FilmProje\API\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\rabia\Desktop\filmProjesi\FilmProje\API\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\rabia\Desktop\filmProjesi\FilmProje\API\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\rabia\Desktop\filmProjesi\FilmProje\API\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\rabia\Desktop\filmProjesi\FilmProje\API\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\rabia\Desktop\filmProjesi\FilmProje\API\bin\roslyn\vbc.exe
+C:\Users\rabia\Desktop\filmProjesi\FilmProje\API\bin\roslyn\VBCSCompiler.exe
+C:\Users\rabia\Desktop\filmProjesi\FilmProje\API\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\rabia\Desktop\filmProjesi\FilmProje\API\bin\API.dll.config
+C:\Users\rabia\Desktop\filmProjesi\FilmProje\API\bin\API.dll
+C:\Users\rabia\Desktop\filmProjesi\FilmProje\API\bin\API.pdb
+C:\Users\rabia\Desktop\filmProjesi\FilmProje\API\bin\Antlr3.Runtime.dll
+C:\Users\rabia\Desktop\filmProjesi\FilmProje\API\bin\DatabaseOperations.dll
+C:\Users\rabia\Desktop\filmProjesi\FilmProje\API\bin\EntityFramework.dll
+C:\Users\rabia\Desktop\filmProjesi\FilmProje\API\bin\EntityFramework.SqlServer.dll
+C:\Users\rabia\Desktop\filmProjesi\FilmProje\API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\rabia\Desktop\filmProjesi\FilmProje\API\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\rabia\Desktop\filmProjesi\FilmProje\API\bin\Newtonsoft.Json.dll
+C:\Users\rabia\Desktop\filmProjesi\FilmProje\API\bin\System.Net.Http.Formatting.dll
+C:\Users\rabia\Desktop\filmProjesi\FilmProje\API\bin\System.Web.Cors.dll
+C:\Users\rabia\Desktop\filmProjesi\FilmProje\API\bin\System.Web.Helpers.dll
+C:\Users\rabia\Desktop\filmProjesi\FilmProje\API\bin\System.Web.Http.Cors.dll
+C:\Users\rabia\Desktop\filmProjesi\FilmProje\API\bin\System.Web.Http.dll
+C:\Users\rabia\Desktop\filmProjesi\FilmProje\API\bin\System.Web.Http.WebHost.dll
+C:\Users\rabia\Desktop\filmProjesi\FilmProje\API\bin\System.Web.Mvc.dll
+C:\Users\rabia\Desktop\filmProjesi\FilmProje\API\bin\System.Web.Optimization.dll
+C:\Users\rabia\Desktop\filmProjesi\FilmProje\API\bin\System.Web.Razor.dll
+C:\Users\rabia\Desktop\filmProjesi\FilmProje\API\bin\System.Web.WebPages.Deployment.dll
+C:\Users\rabia\Desktop\filmProjesi\FilmProje\API\bin\System.Web.WebPages.dll
+C:\Users\rabia\Desktop\filmProjesi\FilmProje\API\bin\System.Web.WebPages.Razor.dll
+C:\Users\rabia\Desktop\filmProjesi\FilmProje\API\bin\WebGrease.dll
+C:\Users\rabia\Desktop\filmProjesi\FilmProje\API\bin\DatabaseOperations.pdb
+C:\Users\rabia\Desktop\filmProjesi\FilmProje\API\bin\EntityFramework.xml
+C:\Users\rabia\Desktop\filmProjesi\FilmProje\API\bin\EntityFramework.SqlServer.xml
+C:\Users\rabia\Desktop\filmProjesi\FilmProje\API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\rabia\Desktop\filmProjesi\FilmProje\API\bin\System.Net.Http.Formatting.xml
+C:\Users\rabia\Desktop\filmProjesi\FilmProje\API\bin\System.Web.Http.xml
+C:\Users\rabia\Desktop\filmProjesi\FilmProje\API\bin\System.Web.Http.Cors.xml
+C:\Users\rabia\Desktop\filmProjesi\FilmProje\API\bin\Newtonsoft.Json.xml
+C:\Users\rabia\Desktop\filmProjesi\FilmProje\API\bin\System.Web.Helpers.xml
+C:\Users\rabia\Desktop\filmProjesi\FilmProje\API\bin\System.Web.Http.WebHost.xml
+C:\Users\rabia\Desktop\filmProjesi\FilmProje\API\bin\System.Web.Mvc.xml
+C:\Users\rabia\Desktop\filmProjesi\FilmProje\API\bin\System.Web.Optimization.xml
+C:\Users\rabia\Desktop\filmProjesi\FilmProje\API\bin\System.Web.Razor.xml
+C:\Users\rabia\Desktop\filmProjesi\FilmProje\API\bin\System.Web.WebPages.xml
+C:\Users\rabia\Desktop\filmProjesi\FilmProje\API\bin\System.Web.WebPages.Deployment.xml
+C:\Users\rabia\Desktop\filmProjesi\FilmProje\API\bin\System.Web.WebPages.Razor.xml
+C:\Users\rabia\Desktop\filmProjesi\FilmProje\API\bin\Antlr3.Runtime.pdb
+C:\Users\rabia\Desktop\filmProjesi\FilmProje\API\obj\Debug\API.csprojResolveAssemblyReference.cache
+C:\Users\rabia\Desktop\filmProjesi\FilmProje\API\obj\Debug\API.dll
+C:\Users\rabia\Desktop\filmProjesi\FilmProje\API\obj\Debug\API.pdb
