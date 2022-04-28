@@ -10,3 +10,9 @@ C:\Users\rabia\Desktop\filmProjesi\FilmProje\FilmSitesi\bin\FilmSitesi.pdb
 C:\Users\rabia\Desktop\filmProjesi\FilmProje\FilmSitesi\obj\Debug\Design.csprojResolveAssemblyReference.cache
 C:\Users\rabia\Desktop\filmProjesi\FilmProje\FilmSitesi\obj\Debug\FilmSitesi.dll
 C:\Users\rabia\Desktop\filmProjesi\FilmProje\FilmSitesi\obj\Debug\FilmSitesi.pdb
+C:\Users\rabia\Documents\GitHub\Film-Projesi\FilmSitesi\bin\FilmSitesi.dll.config
+C:\Users\rabia\Documents\GitHub\Film-Projesi\FilmSitesi\bin\FilmSitesi.dll
+C:\Users\rabia\Documents\GitHub\Film-Projesi\FilmSitesi\bin\FilmSitesi.pdb
+C:\Users\rabia\Documents\GitHub\Film-Projesi\FilmSitesi\obj\Debug\Design.csprojResolveAssemblyReference.cache
+C:\Users\rabia\Documents\GitHub\Film-Projesi\FilmSitesi\obj\Debug\FilmSitesi.dll
+C:\Users\rabia\Documents\GitHub\Film-Projesi\FilmSitesi\obj\Debug\FilmSitesi.pdb
